@@ -7,7 +7,8 @@ Some more projects using AI and machine learning. Completed projects include:
 
 - Predicting hotel cancellations 
 - Deciphering codons in DNA
-- Movie recommendation system (i.e. NetFlix)
+- Movie recommendation system (Netflix)
+- Product recommendation system (Amazon)
 - Avoiding the Challenger disaster
 - Identifying new genes that cause Autism
 - Segmenting bank customers based on credit card summary
