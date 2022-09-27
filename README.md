@@ -1,5 +1,9 @@
 # sample-ML-projects
-Some projects using AI and machine learning. These projects include:
+
+Included right now is a directory for a few CNN and transfer learning models used on a binary image classification dataset (cat & dog). 
+
+TO BE ADDED:
+Some more projects using AI and machine learning. Completed projects include:
 
 - Predicting hotel cancellations 
 - Deciphering codons in DNA
