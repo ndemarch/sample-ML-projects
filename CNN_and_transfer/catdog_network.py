@@ -1,8 +1,16 @@
 # -*- coding: utf-8 -*-
 
-'''We have two neural network models. The first has an input layer with 32 filters and ReLu activation. We then have 4 hidden layers with (64,128,256, 512) filters and then an output layer with 2 possibilities and softmax activation to get a probability of either class. Each layer uses the ReLu activation, a 3x3 filter and single unit stride. We also apply normalization and droput to each layer to prevent overfitting. Our dropout for each hidden layer is 30,40,50 and 60 percent respectively. We use the RMSprop optimizer which has shown an ability to be more effective than Adam for certain classification problems. Our loss function is the categorical crossentropy function.''' 
+# We have two neural network models. The first has an input layer with 32 filters and ReLu activation. 
+# We then have 4 hidden layers with (64,128,256, 512) filters and then an output layer with 2 possibilities
+# and softmax activation to get a probability of either class. Each layer uses the ReLu activation, a 3x3 filter
+# and single unit stride. We also apply normalization and droput to each layer to prevent overfitting. 
+# Our dropout for each hidden layer is 20,30,40 and 50 percent respectively. We use the RMSprop optimizer which 
+# has shown an ability to be more effective than Adam for certain classification problems. Our loss function is
+# the categorical crossentropy function. 
 
-'''For our second model we switch to the LeakyReLu activation function will allows for some negative values in the activation function, preventing the vanishing gradient problem. We also switch to the Adam optimizer and allow for padding for our first two hidden layers and input layer, meaning the outputs will have the same shape as the input. Lastly our filter setup is (16,32,32,64,32).'''
+# For our second model we switch to the LeakyReLu activation function will allows for some negative values in the activation function, 
+# preventing the vanishing gradient problem. We also switch to the Adam optimizer and allow for padding for our first two hidden layers
+# and input layer, meaning the outputs will have the same shape as the input. Lastly our filter setup is (16,32,32,64,128).
 
 import tensorflow as tf
 import tensorflow_hub as hub
