@@ -6,4 +6,4 @@ an accuracy closer to 92% with custom neural network and ~99% using transfer lea
 
 
 - The script catdog_network.py contains the 3 neural network models considered for the project. 
-- The jupyter notebook  contains our interactive example. 
+- The jupyter notebook CNN_notebook.ipynb contains our interactive example. 
