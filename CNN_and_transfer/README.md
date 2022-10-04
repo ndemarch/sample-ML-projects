@@ -1,0 +1,9 @@
+Sample problem in compute vision.
+
+
+Kaggle competition dataset. The winner of this project reach accuracy on test data ~ 90%, here I manage 
+an accuracy closer to 92% with custom neural network and ~99% using transfer learning.
+
+
+- The script catdog_network.py contains the 3 neural network models considered for the project. 
+- The jupyter notebook  contains our interactive example. 
