@@ -1,4 +1,4 @@
-Sample problem in compute vision.
+Sample problem in computer vision.
 
 
 Kaggle competition dataset. The winner of this project obtained an accuracy on the validation data of ~ 90%, here I manage 
