@@ -1,6 +1,6 @@
 # sample-ML-projects
 
-Included right now is a directory for a few CNN and transfer learning models used on a binary image classification dataset (cat & dog) and sample project for predicting hotel cancellations. 
+Included right now is a directory for a few CNN and transfer learning models used on a binary image classification dataset and sample project for predicting hotel cancellations. 
 
 TO DO LIST:
 Add more directories for completed projects using AI and machine learning. Completed projects include:
