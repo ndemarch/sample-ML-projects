@@ -9,6 +9,6 @@ losses are particularly high on last-minute cancellations.
 Four machine learning models are tested (logistic regression, SVM, decision tree and random forest) to provide four useful business recommendations 
 to prevent cancellations.
 
-**Fraus Audit & Bankruptcy** *(fraud_audit_and_bankruptcy.ipynb)*
+**Fraud Audit & Bankruptcy** *(fraud_audit_and_bankruptcy.ipynb)*
 
-Predicting likelihood of a company going bankrupt for potential investments along with detecting the risk of fraus for clients. Three classification models are used to asses risk of fraud: Random forest with hyperparameter tuning, XGBoost with hyperparameter tuning and a Dense Artifical Neural Network. We reach a maximum accuracy of 99.1% on validation data. For predicting bankruptcy, random forest and logistic regression with thresholding are used to reach 100% accuracy on the validation data.
+Predicting likelihood of a company going bankrupt for potential investments along with detecting the risk of fraud for clients. Three classification models are used to asses risk of fraud: Random forest with hyperparameter tuning, XGBoost with hyperparameter tuning and a Dense Artifical Neural Network with callbacks. We reach a maximum accuracy of 99.1% on validation data. For predicting bankruptcy, random forest and logistic regression with thresholding are used to reach 100% accuracy on the validation data.
