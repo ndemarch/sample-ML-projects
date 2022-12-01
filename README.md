@@ -6,6 +6,7 @@ TO DO LIST:
 Add more directories for completed projects using AI and machine learning. Completed projects include:
 
 - [x] Predicting hotel cancellations 
+- [x] Predicting brankruptcy and fraud audit
 - [ ] Deciphering codons in DNA 
 - [ ] Movie recommendation system (Netflix)
 - [ ] Product recommendation system (Amazon) 
