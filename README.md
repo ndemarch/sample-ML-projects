@@ -14,4 +14,5 @@ Add more directories for completed projects using AI and machine learning. Compl
 - [ ] Identifying new genes that cause Autism 
 - [ ] Segmenting bank customers based on credit card summary 
 - [ ] Predicting house/car prices
+- [x] Predicting Amazon stock price
 - [x] Neural network for computer vision
