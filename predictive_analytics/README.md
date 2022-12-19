@@ -1,4 +1,4 @@
-1. Prediciting Stock Value Over Time (*amazon_stock_prediction.ipynb*)
+**Prediciting Stock Value Over Time** *(amazon_stock_prediction.ipynb)*
 
 Isolating Amazon's stock value since its initial IOP, this project looks to explore the occurence of Bull and Bear markets, 
 the recent volatility of the stock, along with predicting its value over time. To predict the stock value we use a time series 
